@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;Level2/src&apos;&#x0A;- Original project: &apos;Level2&apos;&#x0A;- Destination element: &apos;Level2/src&apos;&#x0A;- Original elements:&#x0A;     FroggerRunOverLeft.png&#x0A;     FroggerRunOverDown.png&#x0A;     FroggerRunOverUp.png&#x0A;     FroggerRunOverRight.png&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="src/Frogger/FroggerRunOverLeft.png" element2="src/Frogger/FroggerRunOverDown.png" element3="src/Frogger/FroggerRunOverUp.png" element4="src/Frogger/FroggerRunOverRight.png" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1487289983407" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NumberSystems/Leval1/src/magic8vall.java&apos; to &apos;Magic8ball.java&apos;" description="Rename resource &apos;magic8vall.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Leval1/src/magic8vall.java" name="Magic8ball.java" stamp="1484102826621" updateReferences="true"/>
+</session>

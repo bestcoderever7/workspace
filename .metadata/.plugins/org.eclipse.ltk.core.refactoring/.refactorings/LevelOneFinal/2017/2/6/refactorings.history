@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;LevelOneFinal/src/maxresdefault.jpg&apos; to &apos;fortune_teller.jpeg&apos;" description="Rename resource &apos;maxresdefault.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/maxresdefault.jpg" name="fortune_teller.jpeg" stamp="1486322312576" updateReferences="true"/>
+</session>

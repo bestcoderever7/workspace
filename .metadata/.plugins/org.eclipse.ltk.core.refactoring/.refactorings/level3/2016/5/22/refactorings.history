@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static int GetuserInput(Scanner s)&apos; from &apos;level3.findRange.main()&apos; to &apos;level3.findRange&apos;&#x0A;- Original project: &apos;level3&apos;&#x0A;- Method name: &apos;GetuserInput&apos;&#x0A;- Destination type: &apos;level3.findRange&apos;&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Replace occurrences of statements with method" comments="false" description="Extract method &apos;GetuserInput&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;level3{findRange.java" name="GetuserInput" replace="true" selection="280 70" stamp="1464311310126" version="1.0" visibility="2"/>
+</session>
